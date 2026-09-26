@@ -68,6 +68,7 @@ Laptop, Monitor, and Office Chair were the top three products by sales.
 March recorded the highest monthly sales of ₹6,82,500.
 February recorded the lowest monthly sales of ₹4,12,000.
 Overall sales were ₹29,05,500 with a total profit of ₹9,07,500.
+
 **Regional Performance**
 
 East – Sales: ₹7,86,500 | Profit: ₹2,27,500
