@@ -46,6 +46,7 @@ Total Orders: 50
 Total Profit: ₹9,07,500
 Profit Margin: 31.23%
 Average Order Value (AOV): ₹58,110
+
  **Dashboard Components**
 
 The dashboard includes:
